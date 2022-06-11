@@ -2,8 +2,6 @@ package com.snakenladder.bl;
 
 import java.util.Random;
 
-import java.util.Random;
-
 public class SnakeLadder {
 
 	public static void main(String[] args) {
